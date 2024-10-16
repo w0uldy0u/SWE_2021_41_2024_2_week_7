@@ -7,4 +7,4 @@ def twoSum(nums: List[int], target: int) -> List[int]:
                 answer.append(i)
                 answer.append(j)
                 return answer
-    return
+    return []
